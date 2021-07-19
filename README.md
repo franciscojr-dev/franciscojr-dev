@@ -13,7 +13,7 @@
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=555&style=flat-square)
 ![vscode](https://img.shields.io/static/v1?logo=visualstudio&label=&message=VSCode&color=111&logoColor=AAA&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=Git&color=111&logoColor=AAA&style=flat-square)
-![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=111&logoColor=AAA&style=flat-square)
+![docker](https://img.shields.io/static/v1?logo=docker&label=&message=Docker&color=111&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
 
 **PHP Developer** &#12299;_Working with a focus on back-end applications_
